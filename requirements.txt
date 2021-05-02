@@ -1,0 +1,7 @@
+telebot
+requests
+python-opencv
+ctypes
+pyautogui
+platform
+clipboard
